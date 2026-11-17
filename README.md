@@ -1,12 +1,11 @@
-# Flappy Bird — Desktop Clone
+# Flappy Bird (Desktop Clone)
 
 A dependency-free clone of Flappy Bird that runs in any desktop browser. One HTML file, no build
 step, no assets to download — just open it and play. The physics, tilt, and pipe tightening are
 tuned to feel like the original, while a set of rarity-weighted power-ups adds a layer of risk and
 reward on top.
 
-**[▶ Play it live](https://danielpascl.github.io/flappy-bird-clone/)** — replace with your deployed URL.
-
+**[▶ Play it live](https://danielpascl.github.io/flappy-bird-clone/)**
 ---
 
 ## Table of Contents
